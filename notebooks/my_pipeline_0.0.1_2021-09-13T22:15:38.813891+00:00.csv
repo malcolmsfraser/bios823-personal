@@ -1,0 +1,24 @@
+name,my_pipeline_0.0.1
+memory,
+steps,"[('scaler', StandardScaler()), ('svc', SVC())]"
+verbose,False
+scaler,StandardScaler()
+svc,SVC()
+scaler__copy,True
+scaler__with_mean,True
+scaler__with_std,True
+svc__C,1.0
+svc__break_ties,False
+svc__cache_size,200
+svc__class_weight,
+svc__coef0,0.0
+svc__decision_function_shape,ovr
+svc__degree,3
+svc__gamma,scale
+svc__kernel,rbf
+svc__max_iter,-1
+svc__probability,False
+svc__random_state,
+svc__shrinking,True
+svc__tol,0.001
+svc__verbose,False
