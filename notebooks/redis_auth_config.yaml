@@ -1,0 +1,5 @@
+# This would normally live on disk and not be in a notebook!
+
+host: 'localhost'
+port: 6379
+password: 
